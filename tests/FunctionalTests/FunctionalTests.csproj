@@ -12,7 +12,7 @@
     <!-- Add other necessary Microsoft.Extensions.* packages at 9.0.0 if required -->
   </ItemGroup>
      <ItemGroup>
-     <PackageVersion Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+     <PackageVersion Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
    </ItemGroup>
 
   <ItemGroup>
